@@ -10,4 +10,6 @@ The training set consists of 28,709 examples and the public test set consists of
 VGG16 pre-trained model is fine-tuned <br/>
 The model takes images of dimension (50, 50, 3) and the output is one of the seven emotion classes. The base model(i.e VGG16 model) layers is set to non-trainable. 
 
-
+<br/>
+References <br/>
+https://www.kaggle.com/msambare/fer2013
